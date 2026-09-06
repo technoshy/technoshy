@@ -1,4 +1,4 @@
-# Programming hobbist
+# Programming hobbist 
 
 Welcome to my GitHub profile! I'm a passionate developer focused on creating innovative software solutions.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating inn
 - Open source development
 - Cross-platform software development
 - Building tools and applications
-- AI enthusiast
+- natural buildr
 
 ## 🖥️ Environment
 - **OS**: Nix OS
