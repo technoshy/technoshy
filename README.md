@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating inn
 
 ## 🖥️ Environment
 - **OS**: Nix OS
-- **Language**: java
+- **Language**: javascript
 
 ---
 
